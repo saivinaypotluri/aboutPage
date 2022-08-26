@@ -1,0 +1,10 @@
+.overflow-auto{
+  width:50%;
+  overflow: scroll;
+  height:250px;
+  text-align: center;
+  margin:100px auto;
+  border:1px solid;
+
+
+}
